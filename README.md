@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=WaifuHunter23&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey! +I'm+WaifuHunter23+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WaifuHunter23&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
@@ -65,33 +62,18 @@ const WaifuHunter23 = {
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=WaifuHunter23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaifuHunter23&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaifuHunter23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WaifuHunter23&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</div>
-
-## Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=WaifuHunter23&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ## Featured Projects
 
 <div align="center">
   <a href="https://github.com/WaifuHunter23/AnyToExcel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaifuHunter23&repo=AnyToExcel&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/WaifuHunter23/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaifuHunter23&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -112,20 +94,10 @@ const WaifuHunter23 = {
   </a>
 </p>
 
-## Random Dev Quote
-<div align="center">
-  <img src="[https://quotes-github-readme.vercel. app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" alt="Random Dev Quote" />
-</div>
-
-## Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WaifuHunter23/WaifuHunter23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  
   
   ### Show some love by starring some repositories!
   
